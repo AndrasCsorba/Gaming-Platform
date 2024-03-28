@@ -1,6 +1,8 @@
 Hey🙂
+
 Gaming Platform 
- is a video game discovery web app that helps you find new and interesting games to play.
+
+is a video game discovery web app that helps you find new and interesting games to play.
 
 Getting Started
 To get started with GameHub, follow these steps:
